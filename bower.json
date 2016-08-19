@@ -1,0 +1,21 @@
+{
+  "name": "reflasker",
+  "authors": [
+    "Mouse Reeve <mousereeve@riseup.net>"
+  ],
+  "description": "Flasking flasks unflaskingly",
+  "main": "flask.js",
+  "moduleType": [],
+  "keywords": [
+    "nonsense"
+  ],
+  "license": "MIT",
+  "homepage": "https://www.mousereeve.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
