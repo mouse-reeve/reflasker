@@ -45,7 +45,7 @@ var reflask = function (text) {
                     (!isNaN(parseFloat(item)) && item == parseFloat(item)) ||
                     item.match(/^[\s]+$/)) {
             flask = ' ' + item;
-        } else if (item.match(/^an$|^and$|^a$|^the$|^with$|^in$|^for$/)) {
+        } else if (item.match(/^an$|^and$|^a$|^the$|^with$|^in$|^for$|^of$/)) {
             flask = ' ' + item;
         } else {
             var first = item.slice(0,1);
