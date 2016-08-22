@@ -1,3 +1,3 @@
 # reflasker
 
-A react module for flasking html
+A module for flasking
